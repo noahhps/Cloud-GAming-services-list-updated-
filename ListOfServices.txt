@@ -1,9 +1,13 @@
 # Cloud-GAming-services-list-updated-
 A list of Cloud Gaming services that are closed and open (feel free to contribute)
 
+Alpha/Beta/Early Acess
+1.)Amazon Luna - modular Subscription
+2.)NewCade - Retro gaming (soon Indie!)
+
 Open
 1.)Stadia - Subscription + buy your own games
-2.)Amazon Luna - modular Subscription
+2.)AntStream Arcade - retro games
 3.)Facebook gaming - pricing model unknown
 4.)Geforce Now - Cloud Gaming Pc
 4.)Parsec - Own you own PC and stream it to a tablet or other PC (you can get their warp subscription to get more features)
@@ -15,6 +19,7 @@ Open
 10.)PSnow - Subscription
 11.)FireCloud Pc - cloud gaming PC
 12.)RainWay - Own you own PC and stream it to a tablet or other PC
+13.)Maximum settings - cloud gaming Pc
 
 Closed
 1.)LiquidSky
